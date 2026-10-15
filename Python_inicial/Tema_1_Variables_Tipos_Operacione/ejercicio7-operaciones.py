@@ -1,0 +1,6 @@
+print("((3 + 2) / (2 * 5)) ^ 2 = ", float(((3 + 2) / (2 * 5)) ** 2))
+numero = float(input("teclee el número n: "))
+print("n(n+1)/2 = ", (numero * (numero + 1)) / 2)
+numero1 = float(input("teclee el número n1: "))
+numero2 = float(input("teclee el número n2: "))
+print("n1/n2 = ", "cociente: ", numero1 / numero2, ", resto: ", numero1 % numero2)
